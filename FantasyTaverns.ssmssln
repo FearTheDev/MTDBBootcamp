@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FantasyTaverns", "FantasyTaverns\FantasyTaverns.ssmssqlproj", "{C3AF613D-1A11-4BED-AC2D-B9590D38E6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AF613D-1A11-4BED-AC2D-B9590D38E6BC}.Default|Default.ActiveCfg = Default
+		{486F4B9F-B9E8-4D3E-8089-2F8B965D2D5A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B393D8F-8457-4B5D-A076-87B836AEAD27}
+	EndGlobalSection
+EndGlobal
